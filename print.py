@@ -1,1 +1,1 @@
-print('cognye Devops course start')
+print('cognye Devops course start now')
